@@ -16,10 +16,7 @@ def merge( arrA, arrB ):
 # TO-DO: implement the Merge Sort function below USING RECURSION
 def merge_sort( arr ):
     # TO-DO
-    # for i in arr:
-    #     if len(arr) > 1:
-    #         arr // 2
-    # return arr
+
     l = len(arr)
     if l > 1:
         new_arr = l // 2
